@@ -1,0 +1,9 @@
+{
+  "name": "CompanyProfitFix",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/cities2modding/cities2-company-profit-fix",
+  "description": "Fixes the profitability of companies introduced with latest patch.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

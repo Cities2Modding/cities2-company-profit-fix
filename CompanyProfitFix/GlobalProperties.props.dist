@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup Label="GlobalProperties">
+		<ModName>MyMod</ModName>
+		<Debug_Location>E:\Games\Cities Skylines II</Debug_Location>
+		<Release_Location>E:\SteamLibrary\steamapps\common\Cities Skylines II</Release_Location>
+		<Cities2_Game_Location>$(Debug_Location)</Cities2_Game_Location>
+		<Cities2_Assembly_Location>..\unstripped_libs</Cities2_Assembly_Location>
+		<BepInExVersion>5</BepInExVersion>
+		<PluginVersion>0.1.0</PluginVersion>
+	</PropertyGroup>
+</Project>
